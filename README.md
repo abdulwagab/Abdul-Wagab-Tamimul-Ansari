@@ -20,6 +20,5 @@ Languages and Tools:
 Languages: C, C++, Python
 Tools: Pycharm, CANoe, Microcontroller IDE's, Code Browser(Visual stdio, Source Insight)
 
-     
 
-Linkedin LinkedIn   GitHub GitHub
+LinkedIn   GitHub 
